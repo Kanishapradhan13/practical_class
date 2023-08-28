@@ -1,7 +1,7 @@
 print('hi')
 print('how are you?')
 print('I am good')
-# Variablesghfhf
+# Variables
 # hash is a comment and it will be comepletely ignored
 a = 3
 print(a)
